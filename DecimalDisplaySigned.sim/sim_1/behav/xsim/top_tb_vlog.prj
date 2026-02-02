@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../DecimalDisplaySigned.srcs/sources_1/new/Binary2BCD.v" \
+"../../../../DecimalDisplaySigned.srcs/sources_1/new/DisplayController.v" \
+"../../../../DecimalDisplaySigned.srcs/sources_1/new/DoubbleDabble.v" \
+"../../../../DecimalDisplaySigned.srcs/sources_1/new/PulseGenerator.v" \
+"../../../../DecimalDisplaySigned.srcs/sources_1/new/SevenSegDec.v" \
+"../../../../DecimalDisplaySigned.srcs/sources_1/new/SignDetector.v" \
+"../../../../DecimalDisplaySigned.srcs/sources_1/new/top_module.v" \
+"../../../../DecimalDisplaySigned.srcs/sim_1/new/top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

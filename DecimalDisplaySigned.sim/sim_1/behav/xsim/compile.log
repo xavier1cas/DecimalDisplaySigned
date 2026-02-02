@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/Binary2BCD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Binary2BCD
+INFO: [VRFC 10-2263] Analyzing Verilog file "/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/DisplayController.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DisplayController
+INFO: [VRFC 10-2263] Analyzing Verilog file "/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/DoubbleDabble.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DoubbleDabble
+INFO: [VRFC 10-2263] Analyzing Verilog file "/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/PulseGenerator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PulseGenerator
+INFO: [VRFC 10-2263] Analyzing Verilog file "/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/SevenSegDec.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SevenSegDec
+INFO: [VRFC 10-2263] Analyzing Verilog file "/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/SignDetector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SignDetector
+INFO: [VRFC 10-2263] Analyzing Verilog file "/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/top_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_module
+INFO: [VRFC 10-2263] Analyzing Verilog file "/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sim_1/new/top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_tb

@@ -1,0 +1,14 @@
+0.7
+2020.2
+Oct 14 2022
+05:07:14
+/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sim_1/new/top_tb.v,1744821381,verilog,,,,top_tb,,,,,,,,
+/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/Binary2BCD.v,1744909862,verilog,,/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/DisplayController.v,,Binary2BCD,,,,,,,,
+/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/DisplayController.v,1744913905,verilog,,/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/DoubbleDabble.v,/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/Utilities.vh,DisplayController,,,,,,,,
+/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/DoubbleDabble.v,1730039156,verilog,,/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/PulseGenerator.v,/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/Utilities.vh,DoubbleDabble,,,,,,,,
+/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/PulseGenerator.v,1744823427,verilog,,/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/SevenSegDec.v,/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/Utilities.vh,PulseGenerator,,,,,,,,
+/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/SevenSegDec.v,1744821661,verilog,,/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/SignDetector.v,,SevenSegDec,,,,,,,,
+/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/SignDetector.v,1744821730,verilog,,/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/top_module.v,,SignDetector,,,,,,,,
+/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/Utilities.vh,1744913896,verilog,,,,,,,,,,,,
+/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sources_1/new/top_module.v,1744821023,verilog,,/mnt/d/FPGA_Projects/DecimalDisplaySigned/DecimalDisplaySigned.srcs/sim_1/new/top_tb.v,,top_module,,,,,,,,
